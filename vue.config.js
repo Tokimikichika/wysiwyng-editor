@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/wysiwyg-editor/' // Замените на точное имя вашего репозитория
+  publicPath: '/wysiwyng-editor/' // Замените на точное имя вашего репозитория
 };
