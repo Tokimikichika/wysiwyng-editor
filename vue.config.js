@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production' ? '/wysiwyg-editor/' : '/'
+  publicPath: '/wysiwyg-editor/' // Замените на точное имя вашего репозитория
 };
